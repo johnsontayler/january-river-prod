@@ -24,7 +24,7 @@
 
 .text-container {
   position: absolute;
-  top: 40px;
+  top: 5px;
   left: 25px;
 }
 
@@ -45,4 +45,9 @@
   font-family: 'Share Tech Mono', monospace;
   color: darkgreen;
   font-size: 15vw;
+}
+
+.email {
+  font-family: 'Share Tech Mono', monospace;
+  color: brown;
 }
