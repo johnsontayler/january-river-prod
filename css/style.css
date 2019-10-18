@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+
+.background-container {
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.letterboard {
+  height: 100%;
+  z-index: -1;
+}
+
+.letterboard-line {
+  border-right: 0.125rem solid gray;
+  border-top: 0.125rem solid gray;
+  border-bottom: 0.125rem solid gray;
+  width: 10%;
+  border-radius: 0.1875rem;
+  margin-top: 0.1875rem;
+  margin-bottom: 3px;
+  margin-right: 0.25rem;
+}
+
+.text-container {
+  position: absolute;
+  top: 80px;
+  width: 80%;
+  height: 90%;
+}
