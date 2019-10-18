@@ -24,8 +24,8 @@
 
 .text-container {
   position: absolute;
-  top: 5px;
-  left: 25px;
+  top: 2vh;
+  left: 5vw;
 }
 
 .january {
@@ -37,7 +37,7 @@
 .river {
   font-family: 'Share Tech Mono', monospace;
   color: cornflowerblue;
-  font-size: 18vw;
+  font-size: 16vw;
   text-align: center;
 }
 
@@ -50,4 +50,17 @@
 .email {
   font-family: 'Share Tech Mono', monospace;
   color: brown;
+  font-size: 1.3rem;
+}
+
+.film-prod-card {
+  position: absolute;
+    top: 2vh;
+  left: 0vw;
+  font-size: 2.1vw;
+}
+
+.film-prod-text {
+  font-family: 'Share Tech Mono', monospace;
+  color: chocolate;
 }
